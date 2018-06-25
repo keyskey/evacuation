@@ -2,16 +2,16 @@
 
 計算と可視化に必要なファイルは
 
-1. Agent.py <br>
+1.Agent.py <br>
   => 歩行者の持つパラメータ、移動確率を計算する関数などが書かれています<br>
 <br>
-2. Field.py <br>
+2.Field.py <br>
   => メイン実行プログラム <br>
 <br>
-3. field.csv <br> 
+3.field.csv <br> 
   => 人間が移動する空間を描いたエクセルシートをcsvに変換したもの <br>
 <br>
-4. animation.py <br>
+4.animation.py <br>
   => outputファイルをpng画像に変換してgifアニメにするスクリプト <br>
 <br>
 の4つです。<br>
