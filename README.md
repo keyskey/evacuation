@@ -26,3 +26,6 @@ $ python animation.py <br>
 と打つと収束までにかかったタイムステップ数を聞かれるので、Field.pyのログの最後に出力されている〜timestepの〜に当たる数字を入力してください。<br>
 animation.gifという名前でgifアニメが作られているのが確認できます。
 
+![animation](https://user-images.githubusercontent.com/39644776/41833565-c0e7cea4-788b-11e8-9d08-00196bc282aa.gif)
+
+
